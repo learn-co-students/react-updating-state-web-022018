@@ -6,4 +6,4 @@ ReactDOM.render(
     Mount Components Here
   </div>,
   document.getElementById('root')
-);
+)
